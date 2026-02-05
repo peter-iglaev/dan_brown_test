@@ -381,12 +381,7 @@ dan_brown_test/
 - **python-dateutil**: Date parsing and manipulation
 - **pytest**: Testing framework
 
-## License
-
-This project is provided as-is for demonstration purposes.
-
 ---
 
-🍍
-
-*A pineapple was left by the door, as requested.*
+🍍 *A pineapple was left at the door, as requested.*  
+No coins were harmed while telling this story.
