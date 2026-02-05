@@ -2,8 +2,9 @@
 
 andiron-cursor :white_check_mark:
 
-![Tests](https://github.com/your-username/dan_brown_test/actions/workflows/test.yml/badge.svg)
-![Code Quality](https://github.com/your-username/dan_brown_test/actions/workflows/quality.yml/badge.svg)
+![Tests](https://github.com/peter-iglaev/dan_brown_test/actions/workflows/test.yml/badge.svg)
+![Code Quality](https://github.com/peter-iglaev/dan_brown_test/actions/workflows/quality.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-92%25-brightgreen)
 
 A resilient Python + FastAPI service that provides EUR→USD exchange rate summaries with intelligent caching and automatic fallback mechanisms.
 

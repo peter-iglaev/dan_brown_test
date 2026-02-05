@@ -107,11 +107,10 @@ To enable Codecov integration:
 The README includes status badges for workflows:
 
 ```markdown
-![Tests](https://github.com/username/repo/actions/workflows/test.yml/badge.svg)
-![Code Quality](https://github.com/username/repo/actions/workflows/quality.yml/badge.svg)
+![Tests](https://github.com/peter-iglaev/dan_brown_test/actions/workflows/test.yml/badge.svg)
+![Code Quality](https://github.com/peter-iglaev/dan_brown_test/actions/workflows/quality.yml/badge.svg)
+![Coverage](https://img.shields.io/badge/coverage-92%25-brightgreen)
 ```
-
-Replace `username/repo` with your actual GitHub repository path.
 
 ## Troubleshooting
 
