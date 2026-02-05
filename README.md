@@ -384,3 +384,9 @@ dan_brown_test/
 ## License
 
 This project is provided as-is for demonstration purposes.
+
+---
+
+🍍
+
+*A pineapple was left by the door, as requested.*
